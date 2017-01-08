@@ -10,6 +10,16 @@
 
 **Link to work:** [There is no spoon](https://www.codingame.com/training/medium/there-is-no-spoon-episode-1)
 
+
+### Day 2: January 7th, Saturday 
+
+**Today's Progress**: Done the Ceaser cipher FCC challenge, made a [pen](http://codepen.io/skhamoud/full/ZLGwbe) out of it.
+
+**Thoughts** : One of'em days, I just couldn't find my head, Challenge took ALOT of time :( . Trying to implement functional programming concepts everywhere might be the reason.
+
+**Link(s) to work**
+[codepen](http://codepen.io/skhamoud/full/ZLGwbe)
+
 <!---
 ### Day 1: June 27, Monday
 
