@@ -20,6 +20,16 @@
 **Link(s) to work**
 [codepen](http://codepen.io/skhamoud/full/ZLGwbe)
 
+# 100 Days Of Code - Log
+
+### Day 3: January 8th, Sunday
+
+**Today's Progress**: Couple FCC algorithm challenges, started going through exercism.io for algorithms training and joined a team making an app.
+
+**Thoughts:**  started picking up React (again) and webpack :) , you can get very distracted , didn't remember it's a sunday .
+
+**Link to work:** [FCC- record collection](https://www.freecodecamp.com/challenges/record-collection)
+
 <!---
 ### Day 1: June 27, Monday
 
