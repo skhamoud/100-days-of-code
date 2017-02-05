@@ -58,3 +58,31 @@
 
 **Link to work:** None really :(
 
+
+### Day 7: January 30th
+
+**Today's Progress**: worked on local weather app, started styling . 
+
+**Thoughts:**  problems with create-react-app implementing sass into project , but ejected CRA to be able to use sass  .
+
+**Link to work:** [codepen](http://codepen.io/skhamoud/full/pRayBm/)
+
+
+### Day 8: February 1st
+
+**Today's Progress**: progress on local weather app, more styling . 
+
+**Thoughts:**  I code a lot more than an hour often but just keep getting distracted with stuff and docs and vids etc..., I also just miss days on the log although I did the challenge but can't remember what I did when I try to update the log.
+
+**Link to work:** [codepen](http://codepen.io/skhamoud/full/pRayBm/)
+
+
+### Day 9: February 5th
+
+**Today's Progress**: got on page with IdeaZone project , went through code base , started working on (adding examples, and tutorials features) features. 
+
+**Thoughts:**  Like what the team did with the app, Firebase still new to me, so a bit confusing.
+ I like evans style of code. will pull request soon. 
+ though I'll be offline for 2 weeks, I'll try and do as much as possible in side project automarket without the distractions of emails, notifications etc...  :-)
+
+**Link to work:** [ideazone]https://github.com/skhamoud/IdeaZone)
