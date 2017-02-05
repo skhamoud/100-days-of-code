@@ -85,4 +85,4 @@
  I like evans style of code. will pull request soon. 
  though I'll be offline for 2 weeks, I'll try and do as much as possible in side project automarket without the distractions of emails, notifications etc...  :-)
 
-**Link to work:** [ideazone]https://github.com/skhamoud/IdeaZone)
+**Link to work:** [ideazone](https://github.com/skhamoud/IdeaZone)
