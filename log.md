@@ -86,3 +86,12 @@
  though I'll be offline for 2 weeks, I'll try and do as much as possible in side project automarket without the distractions of emails, notifications etc...  :-)
 
 **Link to work:** [ideazone](https://github.com/skhamoud/IdeaZone)
+
+### Day 10: March 5th
+
+**Today's Progress**: took out three FCC intermediate algorithm challenges. 
+
+**Thoughts:**  Back since 2 weeks now, had totally forgotten about the challenge :( , somebody mentionned it , and here we are, recommitting ... again ! oh and I learned about js es6 Sets today :)
+
+**Link to work:** [FCC challenges](https://freecodecamp.com/skhamoud/)
+
