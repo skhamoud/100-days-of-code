@@ -95,3 +95,11 @@
 
 **Link to work:** [FCC challenges](https://freecodecamp.com/skhamoud/)
 
+
+### Day 11: March 6th
+
+**Today's Progress**: worked on my Weather app , and started a regex related FCC challenge. 
+
+**Thoughts:** Struggled with Regexp, been a while , but started to get the hang of it 
+
+**Link to work:** [FCC challenges](https://freecodecamp.com/skhamoud/)
