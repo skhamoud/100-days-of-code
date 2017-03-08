@@ -103,3 +103,12 @@
 **Thoughts:** Struggled with Regexp, been a while , but started to get the hang of it 
 
 **Link to work:** [FCC challenges](https://freecodecamp.com/skhamoud/)
+
+
+### Day 12: March 7th
+
+**Today's Progress**: worked on my Weather app , Added a Search Button functionality . 
+
+**Thoughts:** Used learned react Refs 
+
+**Link to work:** [Local Weather App](https://codepen.io/skhamoud/pen/pRayBm?editors=0100)
