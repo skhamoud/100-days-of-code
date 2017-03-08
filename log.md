@@ -111,4 +111,4 @@
 
 **Thoughts:** Used learned react Refs 
 
-**Link to work:** [Local Weather App](https://codepen.io/skhamoud/pen/pRayBm?editors=0100)
+**Link to work:** [Local Weather App](http://codepen.io/skhamoud/pen/pRayBm?editors=0100)
