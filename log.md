@@ -112,3 +112,12 @@
 **Thoughts:** Used learned react Refs 
 
 **Link to work:** [Local Weather App](http://codepen.io/skhamoud/pen/pRayBm?editors=0100)
+
+
+### Day 13: March 8th
+
+**Today's Progress**: Final touches to Weather app , Added a convert temperature unit Button . 
+
+**Thoughts:** Worked with React State and Sass @extend
+
+**Link to work:** [Local Weather App](http://codepen.io/skhamoud/full/pRayBm/)
