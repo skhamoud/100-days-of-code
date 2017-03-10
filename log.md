@@ -121,3 +121,12 @@
 **Thoughts:** Worked with React State and Sass @extend
 
 **Link to work:** [Local Weather App](http://codepen.io/skhamoud/full/pRayBm/)
+
+
+### Day 14: March 9th
+
+**Today's Progress**: Refractor and fix TempComponent Not updating the view through state change. 
+
+**Thoughts:** Learned How State should not deal with every sort of change specially if not generated internally
+
+**Link to work:** [Local Weather App](http://codepen.io/skhamoud/full/pRayBm/)
