@@ -139,3 +139,11 @@
 **Thoughts:** I hate Regex :) but it's extremly helpful and a topic that I need to tackle.
 
 **Link to work:** [FCC Challenge](https://www.freecodecamp.com/challenges/spinal-tap-case#?solution=%2F*jshint%20esversion%3A6*%2F%0Afunction%20spinalCase(str)%20%7B%0A%20%20console.log(str.split(%2F(%3F%3D%5BA-Z%5D)%7C%5B%5CW_%5D%2Fg).join(%22-%22).toLowerCase())%3B%0A%7D%0A%0AspinalCase('this_Is-SpinalCase%20iI')%3B%0A)
+
+### Day 16: March 11th
+
+**Today's Progress**: Worked on the Wikipedia viewer. 
+
+**Thoughts:** Better to design first what i need .
+
+**Link to work:** [wikipedia viewer](https://github.com/skhamoud/wiki-engine)
