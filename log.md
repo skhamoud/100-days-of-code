@@ -146,7 +146,7 @@
 
 **Thoughts:** Better to design first what i need .
 
-**Link to work:** [wikipedia viewer](https://github.com/skhamoud/wiki-engine)
+**Link to work:** [wiki-engine](https://github.com/skhamoud/wiki-engine)
 
 
 ### Day 17: March 12th
@@ -155,5 +155,5 @@
 
 **Thoughts:** First Pair programming session .
 
-**Link to work:** [wikipedia viewer](https://github.com/skhamoud/wiki-engine)
+**Link to work:** [wiki-engine](https://github.com/skhamoud/wiki-engine)
 
