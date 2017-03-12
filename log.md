@@ -142,8 +142,18 @@
 
 ### Day 16: March 11th
 
-**Today's Progress**: Worked on the Wikipedia viewer. 
+**Today's Progress**: Worked on the Wikipedia viewer , linked api, setup smart components . 
 
 **Thoughts:** Better to design first what i need .
 
 **Link to work:** [wikipedia viewer](https://github.com/skhamoud/wiki-engine)
+
+
+### Day 17: March 12th
+
+**Today's Progress**: Sum All primes Challenge and wiki-engine. 
+
+**Thoughts:** First Pair programming session .
+
+**Link to work:** [wikipedia viewer](https://github.com/skhamoud/wiki-engine)
+
