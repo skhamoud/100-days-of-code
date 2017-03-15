@@ -157,11 +157,19 @@
 
 **Link to work:** [wiki-engine](https://github.com/skhamoud/wiki-engine)
 
-### Day 18: March 13h
+### Day 18: March 13th
 
 **Today's Progress**: Worked on wiki-engine. 
 
 **Thoughts:** the design is coming up nice , Learned Reat-Router-Dom  .
 
 **Link to work:** [wiki-engine](https://github.com/skhamoud/wiki-engine)
+
+### Day 19: March 14th
+
+**Today's Progress**: worked on codeplayer. 
+
+**Thoughts:** been a while since I used jquery and I dont miss it one bit  .
+
+**Link to work:** [codeplayer](https://github.com/skhamoud/code-player)
 
